@@ -1,7 +1,7 @@
 ---
 nav:
-  title: Components
-  path: /components
+  title: CodeSnippet
+  path: /CodeSnippet
 ---
 
 ## Foo
